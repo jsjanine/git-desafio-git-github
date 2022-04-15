@@ -1,0 +1,15 @@
+- LISTAS
+
+As listas são muito importantes quando queremos listar alguns itens no site e também para a criação de menu de navegação.
+
+As listas ordenadas, como o próprio nome já diz, os itens serão listados de forma ordenada, seja por número, letra, ou algarismos romanos.
+
+-- Listas ordenadas:
+
+Uma lista ordenada começa com a tag <ol> e seus respectivos itens da lista ficam dentro da tag <li>. 
+
+Por padrão as listas ordenadas são ordenadas por números, mas também iremos ver como ordena-la por outros métodos.
+
+-- Listas desordenadas:
+
+Listas desordenadas são iniciadas com a tag <ul> e são representadas por pequenos “bullets".
