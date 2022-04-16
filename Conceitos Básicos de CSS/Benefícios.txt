@@ -1,0 +1,9 @@
+Principais Benefícios do CSS:
+
+Podemos então listar as seguintes grandes vantagens da aplicação do CSS:
+
+*Possibilidade do controle do layout de vários documentos a partir de um único arquivo CSS;
+*Aplicação de layouts diferentes de acordo com o dispositivo utilizado, possibilitando o layout responsivo;
+*Possibilidade de manter a mesma formatação em diferentes navegadores;
+*Aplicação de técnicas mais sofisticadas de desenvolvimento;
+*Menor consumo de banda e melhor desempenho devido ao reuso do mesmo código de formatação em várias páginas.
